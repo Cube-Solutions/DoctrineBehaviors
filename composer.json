@@ -13,7 +13,7 @@
     "require": {
         "php": ">=8.0",
         "doctrine/common": "^3.0",
-        "doctrine/persistence": "^2.0",
+        "doctrine/persistence": "^2.0|^3.0",
         "doctrine/dbal": "^2.9",
         "doctrine/orm": "^2.8",
         "symfony/cache": "^4.4|^5.2|^6.0",
